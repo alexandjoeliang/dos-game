@@ -1,0 +1,7 @@
+﻿  dos game.cpp
+D:\dos game\dos game.cpp(392,7): warning C4101: 'input': unreferenced local variable
+D:\dos game\dos game.cpp(477,7): warning C4101: 'input': unreferenced local variable
+D:\dos game\dos game.cpp(704,7): warning C4101: 'input': unreferenced local variable
+D:\dos game\dos game.cpp(66): warning C4715: 'promptPlayerCount': not all control paths return a value
+D:\dos game\dos game.cpp(460): warning C4715: 'calculateNumCen': not all control paths return a value
+  dos game.vcxproj -> D:\dos game\Debug\dos game.exe
